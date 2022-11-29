@@ -15,7 +15,9 @@ Desarrollar una Tienda Virtual Web en la que el usuario pueda visualizar las cat
 </head>
 <body>
   <tr>
-    <td>Imagen 1</td>
+    <td>
+      <img sr="img/login.png">
+    </td>
     <td>
       <ol>
         <li>
@@ -30,7 +32,9 @@ Desarrollar una Tienda Virtual Web en la que el usuario pueda visualizar las cat
     </td>
   </tr>
   <tr>
-    <td>Imagen 2</td>
+    <td>
+      <img sr="img/panel.png">
+    </td>
     <td>
       El panel principal se presenta una vez autenticado el usuario.
       <ol>
