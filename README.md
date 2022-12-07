@@ -13,6 +13,9 @@ Below is a list of all the activities carried out in class:
 3. [Cookies](https://github.com/CroodcekDeep/WebApplications_2022B/tree/main/01_CLASE/03_Cookie)
 4. [Sesiones](https://github.com/CroodcekDeep/WebApplications_2022B/tree/main/01_CLASE/04_Sesion)
 
+## Activities 📑
+1. [Validación formulario Controles HTML5](https://github.com/CroodcekDeep/WebApplications_2022B/tree/main/03_Actividad/01_ValidacionFormulario)
+
 ## Homework 🛠️
 All the activities that were carried out at home are listed below:
 1. [Tienda Virtual de Productos](https://github.com/CroodcekDeep/WebApplications_2022B/tree/main/02_TAREAS/01_TiendaVirtual)
