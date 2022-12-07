@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -18,13 +18,13 @@
         <input type="email" name="email" id="email" required><br>
         
         <label for="telefono">Telefono</label><br>
-        <input type="number" name="telefono" id="telefono" pattern="^[9]" required><br>
+        <input type="tel" name="telefono" id="telefono" pattern="^[0]+[9]\d{8}$" required><br>
         
         <label for="contrasenia">Contraseña</label><br>
-        <input type="password" name="contrasenia" id="contrasenia" required><br>
+        <input type="password" name="contrasenia" id="contrasenia" minlength="8" required><br>
 
         <label>Cargo</label><br>
-        <select name="cargo" id="cargo" required minlenght="8"><br>
+        <select name="cargo" id="cargo" required><br>
             <option value="1">Director</option>
             <option value="2">Operador</option>
             <option value="3">Supervisor</option>
